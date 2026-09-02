@@ -16,8 +16,7 @@ Current version: **0.1.1**
 
 The Windows installer is not yet Authenticode-signed, and the Android APK uses
 a development signature. Windows and Android may show security warnings during
-installation. Download Camvo only from this official repository and verify the
-checksums below.
+installation. 120fps may still not work
 
 ```text
 Camvo-Setup-0.1.1.exe
