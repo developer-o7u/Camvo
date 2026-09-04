@@ -7,10 +7,10 @@ Camvo turns an Android phone into a camera for a Windows PC over USB or LAN.
 Download the latest Windows installer and Android APK from the
 [Releases](https://github.com/developer-o7u/Camvo/releases) page.
 
-Current version: **0.1.1**
+Current version: **0.1.2**
 
-- `Camvo-Setup-0.1.1.exe` — Windows installer
-- `Camvo-Android-0.1.1.apk` — Android application
+- `Camvo-Setup-0.1.2.exe` — Windows installer
+- `Camvo-Android-0.1.2.apk` — Android application
 
 ## Installation notice
 
@@ -19,11 +19,11 @@ a development signature. Windows and Android may show security warnings during
 installation. 120fps may still not work
 
 ```text
-Camvo-Setup-0.1.1.exe
-SHA-256: A865CE30DE48B76673EA2F7D520FF55C652B4F22CB747228C2E85248971AD8FB
+Camvo-Setup-0.1.2.exe
+SHA-256: 4EFC6BF6726166A35CC1B2D775E90159735A51330717E4228178F4D23D362634
 
-Camvo-Android-0.1.1.apk
-SHA-256: B74064E7F3A637FC9151DD08837F3D97AFD8C0F9D386AAEF20B8AB260F71C822
+Camvo-Android-0.1.2.apk
+SHA-256: F392C278919DB619AA43C157B597387FC9BED290535A770097E98A80577267A5
 ```
 
 The Camvo source code and private development files are not published in this
